@@ -1,4 +1,4 @@
-# Data Scrapping Creating data from digital sources
+# Data Scrapping: Creating data from digital sources
 
 I selected the Apple Music top 100 playlists from different countries because I was curious to explore the cultural variations in music preferences across regions. By comparing these playlists, I aimed to identify common trends in popular songs as well as uncover unique regional music tastes. I wanted to understand if there were any songs that consistently appeared across multiple playlists, indicating their widespread popularity regardless of geographical boundaries. Additionally, I was interested in observing any distinct patterns or genres that dominated specific countries’ playlists, which could provide insights into the local music scenes and cultural influences.
 
